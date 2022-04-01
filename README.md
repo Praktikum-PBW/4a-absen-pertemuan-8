@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [2010631170004] [Asyifa Maulana]
 - [2010631170049] [Altolyto Sitanggang]
 - [2010631170043] [Adrian Wibisono]
 - [2010631170133] [Jovanka Sandra Nathalie Silalahi]
