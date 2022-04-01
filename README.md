@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [2010631170005] [Chintya Ana Tasya]
 - 2010631170042 Adrian Aufarrizqi
 - [2010631170044] [ALFIAN VITO ANGGORO]
 - [2010631170001] [Afifah Nur Sallamah]
