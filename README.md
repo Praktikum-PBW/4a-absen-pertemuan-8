@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [2010631170044] [ALFIAN VITO ANGGORO]
 - [2010631170001] [Afifah Nur Sallamah]
 - [2010631170047] [Alifa Maha Rizka]
 - [2010631170054] [Annabella Dian Dameria Sinambela]
