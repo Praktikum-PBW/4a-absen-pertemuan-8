@@ -1,6 +1,7 @@
 # Daftar Hadir Praktikum 4A Pertemuan 8
 Silahkan isi list nama di bawah ini apabila hadir dengan format berikut
 
+- [2010631170045] [Ali Dongan Harahap]
 - 2010631170003 Anisa Fitrianida Lutfiajati Pradhyani
 - [2010631170004] [Asyifa Maulana]
 - [2010631170049] [Altolyto Sitanggang]
